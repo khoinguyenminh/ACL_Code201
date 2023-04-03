@@ -24,7 +24,7 @@ My favorite quote:
 __Glad to become the partner with all__. Hope to get a respone from you soon! 
 ----------------------------------
 
-![Give you](https://tapchivannghe.com/wp-content/uploads/2019/06/hinh-anh-co-bon-la-1.jpg)
+![Give you](https://cdn.pixabay.com/photo/2013/07/13/09/59/clover-156451_1280.png)
 
 **Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)
 
