@@ -24,8 +24,8 @@ My favorite quote:
 __Glad to become the partner with all__. Hope to get a respone from you soon! 
 ----------------------------------
 
-![Give you]()
+![Give you](https://www.svgrepo.com/show/452210/git.svg)
 
-**Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)(https://www.svgrepo.com/show/452210/git.svg)
+**Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)
 
 
