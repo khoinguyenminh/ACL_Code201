@@ -13,11 +13,11 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 ---------------------------------
 
 ### Introduce myself
-Calling me, Khoi. I'm living at *Ha Noi Capital*. And I'm working as **marketing** agency. I like to explore coding. Because you can make a webiste, mobile application, chatbot,...by writting codes. 
+Calling me, Khoi. I'm living at *Ha Noi Capital*. And I'm working as **marketing** agency. I want to become the full-stack developer. Because you would like to make a webiste, mobile application, chatbot,.... 
+
+The coding is so amazing!
 
 Eg: `this is code block`. It was made by text between `` mark.  
-
-It's so amazing!
 
 And as you know the 5 of 10 biggest company is in technology department. So if you have good a code knowledge, you can hire a good job.
 
