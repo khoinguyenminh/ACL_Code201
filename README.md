@@ -19,7 +19,7 @@ The coding is so amazing!
 
 Eg: `this is code block`. It was made by text between `` mark.  
 
-And as you know the 5 of 10 biggest company is in technology department. So if you have good a code knowledge, you can hire a good job.
+And as you know the 5 of 10 biggest company is in technology department. So if you have good a code knowledge, you can apply to a good job.
 
 My favorite quote:
 > If you can't make it good, at least make it look good.
