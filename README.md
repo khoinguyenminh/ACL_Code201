@@ -24,8 +24,8 @@ My favorite quote:
 __Glad to become the partner with all__. Hope to get a respone from you soon! 
 ----------------------------------
 
-![Give you](https://cdn.pixabay.com/photo/2013/07/13/09/59/clover-156451_1280.png)
+![Give you]()
 
-**Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)
+**Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)(https://www.svgrepo.com/show/452210/git.svg)
 
 
