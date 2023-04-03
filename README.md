@@ -1,14 +1,17 @@
 # ACL_Code201
 ## American Code Lab - Lab 01-b
 ----------------------------------
+
 ### Task 3.1: What is a growth mindset?
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
-### How to keep yourself in a growth mindset?
+### Task 3.1: How to keep yourself in a growth mindset?
 1. Keep your mind: don't give up
 2. Alway facing the problems
 3. Find a solution for all.
 4. If you have some difficults. Remember: you can do it, anyway! Trust yourself.
+
 ---------------------------------
+
 ### Introduce myself
 Calling me, Khoi. I'm living at *Ha Noi Capital*. And I'm working as **marketing** agency. I like to explore coding. Because you can make a webiste, mobile application, chatbot,...by writting codes. 
 
