@@ -22,8 +22,6 @@ My favorite quote:
 > If you can't make it good, at least make it look good.
 
 __Glad to become the partner with all__. Hope to get a respone from you soon! 
-----------------------------------
+-----------------------------------
 
 **Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)
-
-
