@@ -12,7 +12,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 ### Introduce myself
 Calling me, Khoi. I'm living at *Ha Noi Capital*. And I'm working as **marketing** agency. I like to explore coding. Because you can make a webiste, mobile application, chatbot,...by writting codes. 
 
-Eg: `this is code block`. It is made by text between `` mark.  
+Eg: `this is code block`. It was made by text between `` mark.  
 
 It's so amazing!
 
@@ -23,8 +23,6 @@ My favorite quote:
 
 __Glad to become the partner with all__. Hope to get a respone from you soon! 
 ----------------------------------
-
-![Give you](https://www.svgrepo.com/show/452210/git.svg)
 
 **Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)
 
