@@ -16,7 +16,7 @@ My favorite quote:
 _Glad to become the partner with all_. Hope to get a respone from you soon! 
 
 
-**Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)
+**Share and learn with me. Give me _[Star]https://github.com/khoinguyenminh)_ **. Love all!
 
 --------------------------------------
 
