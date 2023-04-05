@@ -6,7 +6,7 @@ Calling me, Khoi. I'm living at *Ha Noi Capital*. And I'm working as **marketing
 
 The coding is so amazing!
 
-Eg: `this is code block`. It was made by text between `` mark.  
+Eg: `this is code block`. It was made by letting text inside `` mark.  
 
 And as you know the 5 of 10 biggest company is in technology department. So if you have good a code knowledge, you can apply to a good job.
 
