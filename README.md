@@ -1,6 +1,5 @@
-# ACL_Code201
+# American Code Lab: Coding Bootcamp Course
 # Introduction
-----------------------------------
 
 ## About myself
 Calling me, Khoi. I'm living at *Ha Noi Capital*. And I'm working as **marketing** agency. I want to become the full-stack developer. Because you would like to make a webiste, mobile application, chatbot,.... 
@@ -14,10 +13,12 @@ And as you know the 5 of 10 biggest company is in technology department. So if y
 My favorite quote:
 > If you can't make it good, at least make it look good.
 
-__Glad to become the partner with all__. Hope to get a respone from you soon! 
------------------------------------
+_Glad to become the partner with all_. Hope to get a respone from you soon! 
+
 
 **Share and learn with me. Click _Star_ here**: [My Repo](https://github.com/khoinguyenminh)
+
+--------------------------------------
 
 ## Learning by a growth mindset?
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
@@ -30,7 +31,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 --------------------------------------------------
 `Hi there! Thank you for view my pages. This section is my lab.`
 
-**Note**
+# Note
 
 # Table of contents
 ## Course 102
@@ -41,36 +42,29 @@ A growth mindset believes that one’s fundamental abilities can be developed th
     * References: [Computer Setup Instructions](https://codefellows.github.io/setup-guide/)
     * [The Command Line!](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
-* [Note 3]() 
+* [Note 3](/code-102/note-3.md) 
     * References: [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
-* [Note 4]()
-* [Note 5]()
-* [Note 6]()
-* [Note 7]()
-* [Note 8]()
+* [Note 4](/code-102/note-4.md)
+* [Note 5](/code-102/note-5.md)
+* [Note 6](/code-102/note-6.md)
+* [Note 7](/code-102/note-7.md)
+* [Note 8](/code-102/note-8.md)
 
 ----------------------------------------------------
 ## Course 201
-* [Note 1]()
-    * [References: ](https://www.markdownguide.org/basic-syntax/)
-
-* [Note 2]()
-    * [References 1: ]https://codefellows.github.io/setup-guide/
-    * [References 2: ]https://ryanstutorials.net/linuxtutorial/commandline.php
-
-* [Note 3]()
-    * [References 1: ](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-
-* [Note 4]()
-* [Note 5]()
-* [Note 6]()
-* [Note 7]()
-* [Note 8]()
-* [Note 9]()
-* [Note 10]()
-* [Note 11]()
-* [Note 12]()
-* [Note 13]()
-* [Note 14]()
-* [Note 15]()
+* [Note 1](/code-201/note-1.md)
+* [Note 2](/code-201/note-2.md)
+* [Note 3](/code-201/note-3.md)
+* [Note 4](/code-201/note-4.md)
+* [Note 5](/code-201/note-5.md)
+* [Note 6](/code-201/note-6.md)
+* [Note 7](/code-201/note-7.md)
+* [Note 8](/code-201/note-8.md)
+* [Note 9](/code-201/note-9.md)
+* [Note 10](/code-201/note-10.md)
+* [Note 11](/code-201/note-11.md)
+* [Note 12](/code-201/note-12.md)
+* [Note 13](/code-201/note-13.md)
+* [Note 14](/code-201/note-14.md)
+* [Note 15](/code-201/note-15.md)
