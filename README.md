@@ -2,7 +2,7 @@
 # Introduction
 
 ## About myself
-Calling me, Khoi. I'm living at *Ha Noi Capital*. And I'm working as **marketing** agency. I want to become the full-stack developer. Because you would like to make a webiste, mobile application, chatbot,.... 
+Calling me, Khoi. I'm living at *Ha Noi Capital*. And I'm working as **marketing** agency. I want to become the full-stack developer. Because I would like to make a webiste, mobile application, chatbot,.... 
 
 The coding is so amazing!
 
