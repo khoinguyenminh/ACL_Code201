@@ -33,8 +33,8 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 
 # Note
 
-# Table of contents
-## Course 102
+## Table of contents
+### Course 102
 * [Note 1](/code-102/note-1.md)
     * References: [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
@@ -52,7 +52,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 * [Note 8](/code-102/note-8.md)
 
 ----------------------------------------------------
-## Course 201
+### Course 201
 * [Note 1](/code-201/note-1.md)
 * [Note 2](/code-201/note-2.md)
 * [Note 3](/code-201/note-3.md)
