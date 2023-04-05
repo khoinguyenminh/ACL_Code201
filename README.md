@@ -33,11 +33,11 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 # Table of contents
 ## Course 102
 * [Note 1]()
-    * [References: ](https://www.markdownguide.org/basic-syntax/)
+    * References: [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 * [Note 2]()
-    * [References 1: ]https://codefellows.github.io/setup-guide/
-    * [References 2: ]https://ryanstutorials.net/linuxtutorial/commandline.php
+    * References: [Computer Setup Instructions](https://codefellows.github.io/setup-guide/)
+    * References 2:[The Command Line!](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
 * [Note 3]() 
     * [References 1: ](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
