@@ -47,7 +47,7 @@ How to keep yourself in a growth mindset?
     * References: [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 * [Note 4](/code-102/note-4.md)
-* [Note 5](/code-102/note-5.md)
+* [Note 5 - Javascript](/code-102/note-5.md)
 * [Note 6](/code-102/note-6.md)
 * [Note 7](/code-102/note-7.md)
 * [Note 8](/code-102/note-8.md)
